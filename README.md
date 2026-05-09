@@ -89,6 +89,7 @@ Provides contact details for collaboration and opportunities.
 - Location: Nairobi, Kenya
 - Role: Software Developer
 - GitHub: github.com/simongatuku
+- LinkedIn: linkedin.com/Simon Gatuku
 - Email: simon@example.com
 
 ---
