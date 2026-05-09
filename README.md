@@ -90,7 +90,7 @@ Provides contact details for collaboration and opportunities.
 - Role: Software Developer
 - GitHub: github.com/simongatuku
 - LinkedIn: linkedin.com/in/simon-gatuku-b33924362
-- Email: simon@example.com
+- Email: gatukusimon6@gmail.com
 
 ---
 
